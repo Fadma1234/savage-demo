@@ -1,11 +1,21 @@
 ![21 Savage](public/21savage.jpg)
 
-## Installation
+A full-stack app for practicing fixing CRUD API.
+### Tech Stack
+- HTML
 
-1. Clone repo
-2. run `npm install`
+- CSS
+  
+- JavaScript
+  
+- Node.js
+  
+- Express.js
+  
+- MongoDB
+  
+- EJS
 
-## Usage
 
-1. run `npm run savage`
-2. Navigate to `localhost:3000`
+### Live Demo
+Click the link on the right under About to see the live demo.
